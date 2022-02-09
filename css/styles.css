@@ -1,0 +1,428 @@
+@import url('https://fonts.googleapis.com/css?family=Bonheur+Royale:regular&display=swap');
+
+@font-face {
+   font-family: 'ITC Cheltenham Std';
+   src: url('../fonts/CheltenhamStd-Bold.woff2'), url('../fonts/CheltenhamStd-Bold.woff');
+   font-weight: 700;
+   font-style: normal;
+   font-display: swap;
+}
+@font-face {
+   font-family: Chomsky;
+   src: url('../fonts/Chomsky.woff2'), url('../fonts/Chomsky.woff');
+   font-weight: normal;
+   font-style: normal;
+   font-display: swap;
+}
+body {
+   padding: 20px;
+}
+.wrapper {
+	min-height: 100%;
+	overflow: hidden;
+}
+.block-1 {
+   display: inline-block;
+}
+.block-2 {
+   display: inline-block;
+   margin-left: 15px;
+}
+.block-3 {
+   display: inline-flex;
+}
+ul li {
+   display: inline;
+}
+.list-1 {
+   margin-left: 370px;
+   color: rgb(124, 124, 124);
+   font-size: 26px;
+   font-family: 'Bonheur Royale';
+   letter-spacing: 3px;
+   word-spacing: 65px;
+   font-weight: 700;
+}
+.title {
+   font-family: Chomsky;
+   font-size: 120px;
+   font-weight: 600;
+   color: black;
+   text-align: center;
+   border-top: 2px solid rgb(107, 107, 107);
+   border-bottom: 2px solid rgb(107, 107, 107);
+}
+.list-2 {
+   font-family: 'Bonheur Royale';
+   font-size: 26px;
+   color: rgb(124, 124, 124);
+   font-weight: 700;
+   word-spacing: 10px;
+   letter-spacing: 1px;
+   border-bottom: 2px solid rgb(107, 107, 107);
+}
+.block-5 {
+   margin: 0 0 30px 0;
+}
+.blocks-1 {
+   border-bottom: 2px solid rgb(107, 107, 107);
+   margin: 0 0 30px 0;
+}
+.block-6 {
+   width: 450px;
+   display: inline-block;
+   vertical-align: top;
+}
+.title-1 {
+   font-family: 'ITC Cheltenham Std';
+   font-size: 17px;
+   color: black;
+   text-align: center;
+   margin: 0 0 10px 0;
+}
+.text {
+   font-family: 'ITC Cheltenham Std';
+   font-size: 15px;
+   color: grey;
+   text-align: justify;
+   line-height: 20px;
+   margin: 0 0 5px 0;
+}
+.image {
+   width: 450px;
+   margin: 0 0 5px 0;
+}
+.block-7 {
+   display: inline-block;
+   width: 450px;
+   margin-left: 60px;
+}
+.title-2 {
+   font-family: 'ITC Cheltenham Std';
+   font-size: 17px;
+   color: black;
+   text-align: center;
+   margin: 0 0 27px 0;
+}
+.text-2 {
+   font-family: 'ITC Cheltenham Std';
+   font-size: 15px;
+   color: grey;
+   text-align: justify;
+   line-height: 20px;
+   margin: 0 0 5px 0;
+}
+.image_1 {
+   width: 450px;
+   margin: 0 0 5px 0;
+}
+.block-8 {
+   width: 450px;
+   display: inline-block;
+   vertical-align: top;
+   margin-left: 60px;
+}
+.title-3 {
+   font-family: 'ITC Cheltenham Std';
+   font-size: 17px;
+   color: black;
+   text-align: center;
+   margin: 0 0 27px 0;
+}
+.text-3 {
+   font-family: 'ITC Cheltenham Std';
+   font-size: 15px;
+   color: grey;
+   text-align: justify;
+   line-height: 20px;
+   margin: 0 0 5px 0;
+}
+.image_2 {
+   width: 450px;
+   margin: 0 0 5px 0;
+}
+.blocks-3 {
+   margin: 0 0 20px 0;
+}
+.block-9 {
+   display: inline-block;
+   vertical-align: top;
+}
+.block-10 {
+   display: inline-block;
+   width: 700px;
+   font-family: 'ITC Cheltenham Std';
+   font-size: 15px;
+   color: grey;
+   text-align: justify;
+   line-height: 37px;
+}
+.image_3 {
+   width: 700px;
+}
+.name {
+   color: rgb(2, 2, 2);
+   font-family: Chomsky;
+   font-weight: 700;
+   font-size: 40px;
+   text-align: center;
+   letter-spacing: 5px;
+   margin: 0 0 30px 0;
+}
+.title-4 {
+   font-family: 'Bonheur Royale';
+   font-size: 30px;
+   color: grey;
+   font-weight: 700;
+   letter-spacing: 3px;
+   text-shadow: 1px 0 1px black;
+   margin: 0 0 20px 0;
+}
+.blocks-4 {
+   margin: 0 0 60px 0;
+   border-bottom: 2px solid grey;
+}
+.block-11 {
+   display: inline;
+}
+.block-12 {
+   display: inline;
+}
+.block-13 {
+   display: inline;
+}
+.image-1 {
+   width: 490px;
+   height: 300px;
+}
+.block-14 {
+   color: grey;
+   font-family: 'Bonheur Royale';
+   font-size: 25px;
+   font-weight: 700;
+   text-decoration: underline;
+   margin-top: 15px;;
+   display: inline-block;
+   margin-left: 180px;
+}
+.block-15 {
+   color: grey;
+   font-family: 'Bonheur Royale';
+   font-size: 25px;
+   font-weight: 700;
+   text-decoration: underline;
+   margin-top: 15px;;
+   display: inline-block;
+   margin-left: 350px;
+}
+.block-16 {
+   color: grey;
+   font-family: 'Bonheur Royale';
+   font-size: 25px;
+   font-weight: 700;
+   text-decoration: underline;
+   margin-top: 15px;;
+   display: inline-block;
+   margin-left: 340px;
+}
+.name_1 {
+   color: black;
+   font-family: Chomsky;
+   font-size: 50px;
+   text-align: center;
+   text-transform: capitalize;
+   margin: 0 0 30px 0;
+}
+.title-5 {
+   color: grey;
+   font-family: 'Bonheur Royale';
+   font-size: 30px;
+   font-weight: 700;
+   letter-spacing: 3px;
+   text-shadow: 1px 0 1px black;
+   margin: 0 0 20px 0;
+}
+.text-5 {
+   color: grey;
+   font-family: 'ITC Cheltenham Std';
+   text-align: justify;
+   text-indent: 50px;
+   line-height: 25px;
+   margin: 0 0 20px 0;
+}
+.image-2 {
+   width: 350px;
+}
+.images-2 {
+   height: 420px;
+   width: 350px;
+}
+.block_1, .block_2, .block_3, .block_4 {
+   display: inline-block;
+   margin: 0 0 15px 0;
+}
+.block_2, .block_3, .block_4 {
+   margin-left: 15px;
+}
+.title-6 {
+   color: grey;
+   font-family: 'ITC Cheltenham Std';
+   text-align: center;
+}
+.block_5, .block_6, .block_7, .block_8 {
+   display: inline-block;
+   margin: 0 0 15px 0;
+}
+.image-3 {
+   width: 330px;
+   height: 420px;
+}
+.block_6, .block_7, .block_8 {
+   margin-left: 35px;
+}
+.block_9, .block_10, .block_11, .block_12 {
+   display: inline-block;
+   margin: 0 0 15px 0;
+}
+.images-4 {
+   width: 350px;
+}
+.image-4 {
+   width: 350px;
+   height: 396px;
+}
+.block_10, .block_11, .block_12 {
+   margin-left: 15px;
+}
+.block_13, .block_14, .block_15, .block_16 {
+   display: inline-block;
+   margin: 0 0 15px 0;
+}
+.image-5 {
+   width: 350px;
+   height: 400px;
+}
+.images-5 {
+   width: 320px;
+   height: 400px;
+}
+.block_14, .block_15, .block_16 {
+   margin-left: 25px;
+}
+.block_17, .block_18 {
+   display: inline-block;
+}
+.blocks-9 {
+   border-bottom: 2px solid grey;
+}
+.block_18 {
+   width: 900px;
+   margin-left: 150px;
+}
+.text-6 {
+   color: grey;
+   font-family: 'ITC Cheltenham Std';
+   text-align: justify;
+   text-indent: 50px;
+   line-height: 25px;
+   margin: 0 0 20px 0;
+   word-spacing: 5px;
+}
+.title-7 {
+   color: grey;
+   font-family: 'ITC Cheltenham Std';
+   text-align: center;
+}
+.image-6 {
+   width: 400px;
+   height: 400px;
+}
+.name-2 {
+   font-family: Chomsky;
+   color: black;
+   font-size: 50px;
+   text-align: center;
+   font-weight: 700;
+   margin: 0 0 25px 0;
+}
+.blocks-10 {
+   margin: 0 0 50px 0;
+}
+.block_19 {
+   width: 1300px;
+   height: 200px;
+   color: grey;
+   font-size: 15px;
+   overflow: auto;
+}
+.title-8 {
+   color: grey;
+   font-family: 'Bonheur Royale';
+   font-size: 30px;
+   font-weight: 700;
+   letter-spacing: 3px;
+   text-decoration: underline;
+   text-shadow: 1px 0 1px black;
+   margin: 0 0 10px 0;
+}
+.title-9 {
+   font-size: 17px;
+   font-weight: 700;
+}
+.text-7 {
+   text-align: justify;
+   font-family: 'ITC Cheltenham Std';
+   text-indent: 30px;
+   line-height: 25px;
+}
+.link_1 {
+   color: rgb(82, 80, 80);
+   font-family: Chomsky;
+   font-size: 80px;
+   text-transform: uppercase;
+   text-shadow: 2px 0 1px black;
+   letter-spacing: 5px;
+   margin-left: 600px;
+}
+.image-6 {
+   width: 350px;
+   height: 400px;
+}
+.image-7 {
+   width: 60px;
+}
+.image-8 {
+   width: 25px;
+   margin-left: 5px;
+}
+.blocks-11 {
+   border-top: 2px solid grey;
+   border-bottom: 2px solid grey;
+   margin: 0 0 10px 0;
+}
+.block-18 {
+   display: inline-block;
+}
+.block-19 {
+   display: inline-block;
+   margin-left: 240px;
+}
+.link-2 {
+   color: grey;
+   font-family: Chomsky;
+   font-size: 45px;
+   text-shadow: 2px 0 1px black;
+}
+.block-20 {
+   display: inline-block;
+   margin-left: 370px;
+}
+.list-3 {
+   color: grey;
+   font-family: Chomsky;
+   font-size: 25px;
+   letter-spacing: 2px;
+   word-spacing: 3px;
+   text-shadow: 2px 0 1px black;
+
+}

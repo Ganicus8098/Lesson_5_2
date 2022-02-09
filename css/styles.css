@@ -454,6 +454,7 @@ ul li {
 .image-8 {
    width: 25px;
    margin-left: 5px;
+   vertical-align: bottom;
 }
 .blocks-11 {
    border-top: 2px solid grey;
@@ -483,5 +484,5 @@ ul li {
 }
 .block-20 {
    display: inline-block;
-   margin-left: 400px;
+   margin-left: 350px;
 }
